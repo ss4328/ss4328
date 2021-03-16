@@ -10,4 +10,4 @@
 
 ##
 
-[Shiv's top stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ss4328&count_private=true)
+[![Shiv's top stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ss4328&count_private=true)]
