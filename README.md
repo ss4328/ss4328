@@ -11,7 +11,3 @@
 ##
 
 [!Shiv's top stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ss4328&count_private=true)
-
-##
-
-![Mridul Awasthi](https://github.com/differentsyntax/differentsyntax/blob/master/img/mridul.gif)
