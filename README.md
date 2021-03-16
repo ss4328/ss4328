@@ -1,16 +1,17 @@
-### Hi there 👋
+### Heya, I'm Shiv 👋
 
-<!--
-**ss4328/ss4328** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on: Finishing my CS degree 🎓 & landing an amazing first job!
+- 🌱 I’m currently learning: Time in a bottle 🎹
+- 💬 Ask me about: Anything Python 🐍
+- 📫 How to reach me: [!LinkedIn] (https://www.linkedin.com/in/shivansh-suhane/)
+- 😄 Pronouns: He/Him
 
-Here are some ideas to get you started:
+⚡ Always up for a sparky discussion on theories about **Harry Potter, Interstellar** & **Pixar's Coco**!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+[!Shiv's top stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ss4328&count_private=true)
+
+##
+
+![Mridul Awasthi](https://github.com/differentsyntax/differentsyntax/blob/master/img/mridul.gif)
