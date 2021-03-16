@@ -7,7 +7,3 @@
 - 😄 Pronouns: He/Him
 
 ⚡ Always up for a passionate discussion on theories about **Game of Thrones, Harry Potter** & **Avatar: The Last Airbender**!
-
-##
-
-[![Shiv's top stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ss4328&count_private=true)]
